@@ -12,7 +12,7 @@ namespace Task2
         {
             string skaiciusPirmas;
             string skaiciusAntras;
-
+            
             //Enter first number:
             Console.WriteLine("Enter first number");
             //2
